@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "gdy17@mails.tsinghua.edu.cn"
-phone = 
+#phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -93,7 +93,7 @@ address = {street = "No.1 Tsinghua Campus St", city = "Haidian District", region
 coordinates = {latitude = "39.999593", longitude = "116.326631"}
 
 # Directions for visitors to locate you.
-directions = ""
+#directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
