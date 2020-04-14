@@ -44,11 +44,17 @@ social:
   icon_pack: fab
   link: https://twitter.com/Daniel__Gong
 - icon: facebook
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.facebook.com/profile.php?id=100023962928512
 - icon: github
   icon_pack: fab
   link: https://github.com/Daniel-Gong
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Dongyu_Gong
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-8606-3202
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
