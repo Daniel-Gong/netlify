@@ -36,9 +36,9 @@ date_format = "Jan 2006"
   title = "Research Assistant"
   company = "Whitney lab at University of California, Berkeley"
   company_url = "https://whitneylab.berkeley.edu"
-  location = "California"
+  location = "California, the United States"
   date_start = "2019-07-01"
   date_end = "2019-08-10"
-  description = """I worked with Allison Yamanashi, former research scientist at the lab, and study human ensemble perception using reverse correlation techniques."""
+  description = """I worked with Dr. Allison Yamanashi Leib, former research scientist at the lab, and studied human ensemble perception using reverse correlation techniques."""
 
 +++
