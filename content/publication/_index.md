@@ -16,5 +16,5 @@ header:
 
 * The Effect of Distractor Saliency on Attentional Capture
 
-* Spatial Heterogeneity of Susceptibility for Attentional Capture
+* Spatial Heterogeneity on Attentional Capture Susceptibility
 * A Saliency-Specific and Dimension-Independent Mechanism of Distractor Suppression
