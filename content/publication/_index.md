@@ -13,3 +13,8 @@ header:
   caption: "presented at 60th psychonomic annual meeting"
   image: "saliency.jpg"
 ---
+
+* The Effect of Distractor Saliency on Attentional Capture
+
+* Spatial Heterogeneity of Susceptibility for Attentional Capture
+* A Saliency-Specific and Dimension-Independent Mechanism of Distractor Suppression
