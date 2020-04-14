@@ -10,7 +10,7 @@ view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "human visual system"
+  caption: ""
   image: "saliency.jpg"
 ---
 

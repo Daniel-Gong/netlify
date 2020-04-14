@@ -106,8 +106,8 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Follow Me on Twitter", link = "https://twitter.com/Daniel__Gong"},
-  {icon = "facebook", icon_pack = "fab", name = "Follow me onFacebook", link = "https://www.facebook.com/profile.php?id=100023962928512"},
-  {icon = "github", icon_pack = "fab", name = "visit my Github", link = "https://github.com/Daniel-Gong/"},
+  {icon = "facebook", icon_pack = "fab", name = "Friend me on Facebook", link = "https://www.facebook.com/profile.php?id=100023962928512"},
+  {icon = "github", icon_pack = "fab", name = "Visit my Github", link = "https://github.com/Daniel-Gong/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
